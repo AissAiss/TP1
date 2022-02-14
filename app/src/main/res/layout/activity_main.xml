@@ -138,7 +138,7 @@
                 android:ems="10"
                 android:inputType="textPersonName|phone"
                 android:minHeight="48dp"
-                android:text="07691499**" />
+                android:text="118218" />
 
         </LinearLayout>
 
